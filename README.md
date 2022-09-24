@@ -11,3 +11,5 @@ Run app as below setting `device` to your preferred installed device, e.g. `chro
 ```console
 > flutter run -d [device]
 ```
+
+Written with flutter version 3.3.2.

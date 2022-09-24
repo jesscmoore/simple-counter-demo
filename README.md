@@ -1,6 +1,6 @@
 # Multiple Counters Demo
 
-This simple app demonstrates state management.
+This app demonstrates state management in flutter using the simplest type of state management with `StatefulWidget`.
 
 A floating action button can be used to add counters, and each counter can be incremented or decremented.
 
